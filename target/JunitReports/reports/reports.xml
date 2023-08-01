@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="308.847" tests="11" skipped="0" failures="0" errors="0">
+<testcase classname="Searching for Companies on Finology Ticker" name="Searching for Different Companies &quot;&lt;company&gt;&quot; - Example #1.1" time="51.148">
+<system-out><![CDATA[
+Given the user is on the Finology Ticker website "https://ticker.finology.in/".passed
+When the user clicks on the search box......................................passed
+And the user enters "RELIANCE" in the search box............................passed
+Then the user should see the search results for "RELIANCE"..................passed
+And the user fetches and store the details in the Excel sheet...............passed
+]]></system-out>
+</testcase>
+<testcase classname="Searching for Companies on Finology Ticker" name="Searching for Different Companies &quot;&lt;company&gt;&quot; - Example #1.2" time="24.758">
+<system-out><![CDATA[
+Given the user is on the Finology Ticker website "https://ticker.finology.in/".passed
+When the user clicks on the search box......................................passed
+And the user enters "TATAMOTORS" in the search box..........................passed
+Then the user should see the search results for "TATAMOTORS"................passed
+And the user fetches and store the details in the Excel sheet...............passed
+]]></system-out>
+</testcase>
+<testcase classname="Searching for Companies on Finology Ticker" name="Searching for Different Companies &quot;&lt;company&gt;&quot; - Example #1.3" time="28.975">
+<system-out><![CDATA[
+Given the user is on the Finology Ticker website "https://ticker.finology.in/".passed
+When the user clicks on the search box......................................passed
+And the user enters "HDFCBANK" in the search box............................passed
+Then the user should see the search results for "HDFCBANK"..................passed
+And the user fetches and store the details in the Excel sheet...............passed
+]]></system-out>
+</testcase>
+<testcase classname="Searching for Companies on Finology Ticker" name="Searching for Different Companies &quot;&lt;company&gt;&quot; - Example #1.4" time="24.298">
+<system-out><![CDATA[
+Given the user is on the Finology Ticker website "https://ticker.finology.in/".passed
+When the user clicks on the search box......................................passed
+And the user enters "ITC" in the search box.................................passed
+Then the user should see the search results for "ITC".......................passed
+And the user fetches and store the details in the Excel sheet...............passed
+]]></system-out>
+</testcase>
+<testcase classname="Searching for Companies on Finology Ticker" name="Searching for Different Companies &quot;&lt;company&gt;&quot; - Example #1.5" time="23.698">
+<system-out><![CDATA[
+Given the user is on the Finology Ticker website "https://ticker.finology.in/".passed
+When the user clicks on the search box......................................passed
+And the user enters "INDIGO" in the search box..............................passed
+Then the user should see the search results for "INDIGO"....................passed
+And the user fetches and store the details in the Excel sheet...............passed
+]]></system-out>
+</testcase>
+<testcase classname="Searching for Companies on Finology Ticker" name="Searching for Different Companies &quot;&lt;company&gt;&quot; - Example #1.6" time="24.444">
+<system-out><![CDATA[
+Given the user is on the Finology Ticker website "https://ticker.finology.in/".passed
+When the user clicks on the search box......................................passed
+And the user enters "MARUTI" in the search box..............................passed
+Then the user should see the search results for "MARUTI"....................passed
+And the user fetches and store the details in the Excel sheet...............passed
+]]></system-out>
+</testcase>
+<testcase classname="Searching for Companies on Finology Ticker" name="Searching for Different Companies &quot;&lt;company&gt;&quot; - Example #1.7" time="24.663">
+<system-out><![CDATA[
+Given the user is on the Finology Ticker website "https://ticker.finology.in/".passed
+When the user clicks on the search box......................................passed
+And the user enters "SBIN" in the search box................................passed
+Then the user should see the search results for "SBIN"......................passed
+And the user fetches and store the details in the Excel sheet...............passed
+]]></system-out>
+</testcase>
+<testcase classname="Searching for Companies on Finology Ticker" name="Searching for Different Companies &quot;&lt;company&gt;&quot; - Example #1.8" time="26.438">
+<system-out><![CDATA[
+Given the user is on the Finology Ticker website "https://ticker.finology.in/".passed
+When the user clicks on the search box......................................passed
+And the user enters "TCS" in the search box.................................passed
+Then the user should see the search results for "TCS".......................passed
+And the user fetches and store the details in the Excel sheet...............passed
+]]></system-out>
+</testcase>
+<testcase classname="Searching for Companies on Finology Ticker" name="Searching for Different Companies &quot;&lt;company&gt;&quot; - Example #1.9" time="24.854">
+<system-out><![CDATA[
+Given the user is on the Finology Ticker website "https://ticker.finology.in/".passed
+When the user clicks on the search box......................................passed
+And the user enters "BAJFINANCE" in the search box..........................passed
+Then the user should see the search results for "BAJFINANCE"................passed
+And the user fetches and store the details in the Excel sheet...............passed
+]]></system-out>
+</testcase>
+<testcase classname="Searching for Companies on Finology Ticker" name="Searching for Different Companies &quot;&lt;company&gt;&quot; - Example #1.10" time="26.258">
+<system-out><![CDATA[
+Given the user is on the Finology Ticker website "https://ticker.finology.in/".passed
+When the user clicks on the search box......................................passed
+And the user enters "BHARTIARTL" in the search box..........................passed
+Then the user should see the search results for "BHARTIARTL"................passed
+And the user fetches and store the details in the Excel sheet...............passed
+]]></system-out>
+</testcase>
+<testcase classname="Searching for Companies on Finology Ticker" name="Searching for Different Companies &quot;&lt;company&gt;&quot; - Example #1.11" time="26.797">
+<system-out><![CDATA[
+Given the user is on the Finology Ticker website "https://ticker.finology.in/".passed
+When the user clicks on the search box......................................passed
+And the user enters "HINDUNILVR" in the search box..........................passed
+Then the user should see the search results for "HINDUNILVR"................passed
+And the user fetches and store the details in the Excel sheet...............passed
+]]></system-out>
+</testcase>
+</testsuite>
